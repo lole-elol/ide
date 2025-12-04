@@ -91,3 +91,6 @@ ExtensionAllowlist:
 
     # Rust
     rust-lang: true
+
+    # Antlr language support
+    mike-lischke.vscode-antlr4: true
