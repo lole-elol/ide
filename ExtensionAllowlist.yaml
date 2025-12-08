@@ -91,6 +91,9 @@ ExtensionAllowlist:
 
     # Rust
     rust-lang: true
+
+    # Antlr language support
+    mike-lischke.vscode-antlr4: true
     
     # Tailwind CSS
     bradlc.vscode-tailwindcss: true
