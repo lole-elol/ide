@@ -100,3 +100,6 @@ ExtensionAllowlist:
     
     # Tailwind CSS
     bradlc.vscode-tailwindcss: true
+
+    # AI
+    anthropic.claude-code: true
